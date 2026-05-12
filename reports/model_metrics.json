@@ -1,0 +1,30 @@
+[
+  {
+    "model": "LinearRegression",
+    "MAE": 3.487,
+    "RMSE": 4.373,
+    "R2": 0.9703,
+    "MAPE": 2.857
+  },
+  {
+    "model": "Ridge",
+    "MAE": 3.487,
+    "RMSE": 4.373,
+    "R2": 0.9703,
+    "MAPE": 2.858
+  },
+  {
+    "model": "RandomForest",
+    "MAE": 2.393,
+    "RMSE": 3.001,
+    "R2": 0.986,
+    "MAPE": 1.98
+  },
+  {
+    "model": "XGBoost",
+    "MAE": 2.426,
+    "RMSE": 3.046,
+    "R2": 0.9856,
+    "MAPE": 2.011
+  }
+]
